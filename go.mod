@@ -1,3 +1,1 @@
-module github.com/zhangmingshuo/testmod
-
-go 1.16
+"module github.com/zhangmingshuo/testmod/v2" 
